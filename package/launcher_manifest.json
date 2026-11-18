@@ -1,0 +1,9 @@
+{
+  "version": "1.5.66",
+  "package": {
+    "url": "https://github.com/braiansaia/CelemPayloads/releases/download/v1.5.66/CelemLauncher-1.5.66.zip",
+    "fallbackUrls": [],
+    "hash": "a0ff09c843f617154a6043c719e8b9a73e745559f4c3521a4977ac9eab1a6485",
+    "artifactType": "archive"
+  }
+}

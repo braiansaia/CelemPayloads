@@ -1,0 +1,28 @@
+{
+  "version": "0.1.1286",
+  "bepinEx": {
+    "url": "https://github.com/braiansaia/CelemPayloads/releases/download/bepinex-1.733.2/BepInEx-BepInExPack_V_Rising-1.733.2.zip",
+    "fallbackUrls": [
+      "https://gcdn.thunderstore.io/live/repository/packages/BepInEx-BepInExPack_V_Rising-1.733.2.zip"
+    ],
+    "hash": "eabfb53d80bed427ddbd1ecf8af4dcd6e82e152809d44ab3218d0a09984f491c",
+    "artifactType": "archive",
+    "targetPath": "",
+    "markerPath": "BepInEx/core/BepInEx.Preloader.Core.dll",
+    "validationPaths": [
+      ".doorstop_version",
+      "doorstop_config.ini",
+      "BepInEx/core/BepInEx.Preloader.Core.dll",
+      "BepInEx/core/BepInEx.Unity.IL2CPP.dll",
+      "winhttp.dll"
+    ]
+  },
+  "content": {
+    "url": "https://github.com/braiansaia/CelemPayloads/releases/download/content-1/celem-files-0.1.1286.json",
+    "fallbackUrls": [],
+    "hash": "81be16c97e2b671a0f6bb4676959f3cb8493ec679b6f2788da6d493ee2dbf152",
+    "fileBaseUrls": [
+      "https://github.com/braiansaia/CelemPayloads/releases/download/content-1"
+    ]
+  }
+}
