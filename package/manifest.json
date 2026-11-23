@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1298",
+  "version": "0.1.1315",
   "bepinEx": {
     "url": "https://github.com/braiansaia/CelemPayloads/releases/download/bepinex-1.733.2/BepInEx-BepInExPack_V_Rising-1.733.2.zip",
     "fallbackUrls": [
@@ -18,9 +18,9 @@
     ]
   },
   "content": {
-    "url": "https://github.com/braiansaia/CelemPayloads/releases/download/content-1/celem-files-0.1.1298.json",
+    "url": "https://github.com/braiansaia/CelemPayloads/releases/download/content-1/celem-files-0.1.1315.json",
     "fallbackUrls": [],
-    "hash": "3cf3eda2fef8d75bfcc315ccb7cd847734f1bfa4bf027e8de76b86692df1d7d5",
+    "hash": "46aaf6a4ed673c62d8d90c106efceff3d77a4a2ceaf4022b0b35ee5b243809da",
     "fileBaseUrls": [
       "https://github.com/braiansaia/CelemPayloads/releases/download/content-1"
     ]
